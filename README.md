@@ -3,6 +3,9 @@ this is program used for getting facebook ids of people who reacted with specifi
 the program is working by giving it the link of facebook post which you want the ids of people who reacted with this post 
 it also takes your facebook user and password so it can log into facebook and start scraping the ids you want 
 
+the program has Two versions that you can use 
+firstly,""
+
 Prequests: 1-python3
 
 2- chrome webdriver that could be downloaded from "https://chromedriver.chromium.org/downloads"
